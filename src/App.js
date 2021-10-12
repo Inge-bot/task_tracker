@@ -12,19 +12,19 @@ function App({ color, text }) {
     {
       id: 1,
       text: 'Dentist appointment',
-      day: 'Feb 3 at 10:45',
+      date: 'Feb 3 at 10:45',
       reminder: true,
     },
     {
       id: 2,
       text: 'Meeting at School',
-      day: 'Feb 6th at 12:00',
+      date: 'Feb 6th at 12:00',
       reminder: true,
     },
     {
       id: 3,
       text: 'Grocery shopping',
-      day: 'Feb 14th at 13:00',
+      date: 'Feb 14th at 13:00',
       reminder: false,
     }
   ])
